@@ -34,6 +34,8 @@ public class MainOO {
 		};
 
 		TelaInicialOO tela2 = new TelaInicialOO(disposicaoInicial2);
+		
+		tela2.alterarElemento(1, 1, PERSONAGEM);
 	}
 
 }
